@@ -1,4 +1,5 @@
-# vue-test-task-simon-games
+# Vue Simon Games
+This is game, in which users whould remember colors , and repeat consistency
 
 ## Project setup
 ```
